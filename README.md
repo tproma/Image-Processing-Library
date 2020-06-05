@@ -21,7 +21,6 @@ This Image Processing Library contains raw matlab code for various image process
 - Laplacian of an Image
 - Highboost Filtering
 - Highpass Filtering
-- Prewitt Edge Detector
 - Sobel edge Detector
 
 
